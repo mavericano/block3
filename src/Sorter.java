@@ -146,7 +146,7 @@ public class Sorter {
     * MAIN FOR DEBUGGING *
     public static void main(String[] args) {
         int [] arr = {21, 8, 4, 17, 13, -96, 7, 9, 2, 5, -40, -97};
-
+        //comment to test
         System.out.println(Arrays.toString(quickSort(arr, 0, arr.length - 1)));
     }*/
 
